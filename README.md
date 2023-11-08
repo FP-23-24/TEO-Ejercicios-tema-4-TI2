@@ -30,6 +30,6 @@ Implemente las siguientes funciones en ``libros.py``, haciendo uso de las funcio
 
 * Función ``crea_diccionario_iniciales``, que recibe una lista de libros y devuelve un diccionario en el que las claves son las iniciales de los autores y los valores son las listas de libros correspondientes de los autores coorrespondientes a cada inicial.
 
-* Función ``crea_diccionario_iniciales``, que recibe una lista de libros y devuelve un diccionario en el que las claves son las iniciales de los autores y los valores son las listas de libros correspondientes de los autores coorrespondientes a cada inicial.
+* Función ``crea_diccionario_mas_barato_por_mes``, que recibe una lista de libros y devuelve un diccionario en el que se asocia cada mes del año con el libro más barato de los publicados en dicho mes. Impleméntalo primero usando enteros para los meses, y luego sustituyendo los números por cadenas de texto con los nombres de los meses.
 
 
