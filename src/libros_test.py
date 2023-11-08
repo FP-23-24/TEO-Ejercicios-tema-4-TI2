@@ -10,7 +10,7 @@ def test_lee_libros():
 
 def test_libro_mas_reciente(datos):
     print("Test de libro_mas_reciente")
-    print("\nLibro más reciente de Gabriel García Márquez:", libros.libro_mas_reciente(libros, "Gabriel García Márquez"))
+    print("\nLibro más reciente de Gabriel García Márquez:", libros.libro_mas_reciente(datos, "Gabriel García Márquez"))
     print("="*20)
     print()
 
